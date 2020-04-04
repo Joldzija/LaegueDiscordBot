@@ -1,0 +1,13 @@
+{
+    "name": "kayn",
+    "version": "1.0.0",
+    "description": "My First Discord Bot",
+    "main": "bot.js",
+    "author": "Joldzija",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "opgg-scrape": "^1.0.3",
+        "request": "^2.88.2",
+        "winston": "^3.2.1"
+    }
+}
